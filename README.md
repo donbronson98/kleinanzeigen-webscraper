@@ -7,6 +7,13 @@ Ermöglicht das Absuchen von Anzeigen auf kleinazeigen auf bestimmte Schlagwört
 
 # Wie?
 
+To install all dependencies:
+
+```
+npm install
+```
+
+
 Lege fest, wie und wonach du suchen willst.
 
 Initial ist festgelegt, dass nur Angebote und keine Gesuche brücksichtigt werden. Dies legt die Konstante 'angebotstyp' fest.
