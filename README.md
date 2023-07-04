@@ -3,7 +3,7 @@ Ein smarter Webscraper für kleinanzeigen.de, der die Anzeigen auf bestimmte Sch
 
 # Motivation
 
-Ermöglicht das Absuchen von Anzeigen auf kleinazeigen auf bestimmte Schlagwörter. Will ich beispielsweise nach einem Handy suchen, will ich nicht, dass mir Anzeigen angezeigt werden, welche einen Displaschaden beschreiben. Andernfalls will ich eventuell auch nur Anzeigen angezeigt bekommen, die bereits in der Beschreibung oder dem Titel eine Information zum Batteriezustand geben. So können Titel und Beschreibungen der Anzeigen bereits vorab gefiltert werden.
+Ermöglicht das Absuchen von Anzeigen auf kleinazeigen auf bestimmte Schlagwörter. Will ich beispielsweise nach einem Handy suchen, will ich nicht, dass mir Anzeigen angezeigt werden, welche einen Displayschaden beschreiben. Andernfalls will ich eventuell auch nur Anzeigen angezeigt bekommen, die bereits in der Beschreibung oder dem Titel eine Information zum Batteriezustand geben. So können Titel und Beschreibungen der Anzeigen bereits vorab gefiltert werden.
 
 # Wie?
 
